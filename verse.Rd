@@ -19,6 +19,3 @@ verse(num = 10, animal = "monkey", activity = "jumping", probability = 0.5)
 This function allows to create their unique song based on
 "5 little monkeys jumping on the bed".
 }
-\examples{
-verse(num = 10, animal = 'Cat', activity = 'dancing', probability = 0.3)
-}

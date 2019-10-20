@@ -6,14 +6,10 @@
 #' @param animal protagonist
 #' @param activity the behavior of animal
 #' @param probability the probability of papa calls the doctor
-#' @examples
-#' verse(num = 10, animal = 'Cat', activity = 'dancing', probability = 0.3)
 #' @export
 #'
 #' The function asks the user to imput number, protagonist, activity
 #' and the probability of papa calls the doctor to create unique song.
-
-
 verse <- function(num = 10, animal = 'monkey', activity = 'jumping', probability = 0.5)
   { for(i in c(num:0))
 {if(i >= 2){
