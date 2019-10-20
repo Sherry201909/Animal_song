@@ -1,0 +1,18 @@
+Package: Animal_Verse
+Type: Package
+Title: Create a verse
+Version: 0.1.0
+Authors@R: person("Sherry", "Huang", email = "ziqing.h@columbia.edu",
+                  role = c("aut", "cre"))
+Maintainer: The package maintainer <ziqing.h@columbia.edu>
+Description: This package can let people to create their own song based on 'Five Little Monkeys'. People can choose any animal they like to be the Protagonist in the song.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 6.1.99.9001
+URL: http://github.com/Sherry201909!/Animal_song
+BugReports: http://github.com/Sherry201909!/Animal_song
