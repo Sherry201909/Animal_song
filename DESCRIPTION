@@ -14,5 +14,5 @@ Suggests:
     rmarkdown
 VignetteBuilder: knitr
 RoxygenNote: 6.1.99.9001
-URL: http://github.com/Sherry201909!/Animal_song
-BugReports: http://github.com/Sherry201909!/Animal_song
+URL: http://github.com/Sherry201909/Animal_song
+BugReports: http://github.com/Sherry201909/Animal_song
